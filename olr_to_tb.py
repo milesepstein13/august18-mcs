@@ -1,3 +1,5 @@
+import numpy as np
+
 def olr_to_tb(OLR):
     """
     Convert OLR to IR brightness temperature.
