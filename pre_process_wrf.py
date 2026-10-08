@@ -1,4 +1,4 @@
-import xarray as xxr
+import xarray as xr
 import numpy as np 
 import glob
 
